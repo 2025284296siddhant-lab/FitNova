@@ -1,0 +1,2 @@
+# FitNova
+Smart Fitness Assistant
