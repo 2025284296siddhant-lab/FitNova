@@ -1,0 +1,72 @@
+Exercise,Muscle,Goal,Level,Equipment,Workout_Type,Sets,Reps,Rest,Instructions
+Push-ups,Chest,General Fitness,Beginner,No Equipment,Push,3,12,60,Keep your body straight and lower your chest with control.
+Bodyweight Squat,Legs,General Fitness,Beginner,No Equipment,Legs,3,12,60,Keep your chest up and lower your hips under control.
+Glute Bridge,Glutes,General Fitness,Beginner,No Equipment,Legs,3,15,60,Lift your hips while keeping your core controlled.
+Incline Push-ups,Chest,General Fitness,Beginner,No Equipment,Push,3,10,60,Keep your body straight and lower your chest with control.
+Plank,Core,General Fitness,Beginner,No Equipment,Core,3,30 sec,45,Keep your body straight and brace your core.
+Bird Dog,Core,General Fitness,Beginner,No Equipment,Core,3,10,45,Extend the opposite arm and leg while keeping your torso stable.
+Step-ups,Legs,General Fitness,Beginner,No Equipment,Legs,3,10,60,Step onto a stable platform and control the movement down.
+Marching in Place,Full Body,General Fitness,Beginner,No Equipment,Cardio,3,60 sec,45,March steadily while maintaining an upright posture.
+
+Push-ups,Chest,General Fitness,Intermediate,No Equipment,Push,4,15,60,Keep your body straight and lower yourself with control.
+Bodyweight Squat,Legs,General Fitness,Intermediate,No Equipment,Legs,4,15,60,Keep your chest up and squat under control.
+Reverse Lunges,Legs,General Fitness,Intermediate,No Equipment,Legs,3,12,60,Step backward and lower your body with control.
+Pike Push-ups,Shoulders,General Fitness,Intermediate,No Equipment,Push,3,10,60,Keep your hips elevated and lower your head toward the floor.
+Plank,Core,General Fitness,Intermediate,No Equipment,Core,3,45 sec,45,Keep your body straight and brace your core.
+Mountain Climbers,Full Body,General Fitness,Intermediate,No Equipment,Cardio,3,20,45,Alternate your knees toward your chest with control.
+Skater Steps,Legs,General Fitness,Intermediate,No Equipment,Cardio,3,20,45,Move side to side while maintaining balance.
+Burpees,Full Body,General Fitness,Intermediate,No Equipment,Cardio,3,10,60,Move through the exercise with controlled technique.
+
+Dumbbell Bench Press,Chest,Muscle Gain,Beginner,Dumbbells,Push,3,10,90,Press the dumbbells upward while keeping control.
+Dumbbell Row,Back,Muscle Gain,Beginner,Dumbbells,Pull,3,10,90,Pull the dumbbell toward your waist while keeping your back stable.
+Goblet Squat,Legs,Muscle Gain,Beginner,Dumbbells,Legs,3,12,90,Hold the dumbbell near your chest and squat down.
+Dumbbell Shoulder Press,Shoulders,Muscle Gain,Beginner,Dumbbells,Push,3,10,90,Press the dumbbells overhead.
+Bicep Curl,Biceps,Muscle Gain,Beginner,Dumbbells,Pull,3,12,60,Curl the dumbbells upward without swinging.
+Hammer Curl,Biceps,Muscle Gain,Beginner,Dumbbells,Pull,3,12,60,Curl the dumbbells with a neutral grip.
+Tricep Extension,Triceps,Muscle Gain,Beginner,Dumbbells,Push,3,12,60,Lower the dumbbell behind your head and extend your arms.
+Dumbbell Lateral Raise,Shoulders,Muscle Gain,Beginner,Dumbbells,Push,3,12,60,Raise the dumbbells to shoulder height without swinging.
+
+Dumbbell Bench Press,Chest,Muscle Gain,Intermediate,Dumbbells,Push,4,10,90,Press the dumbbells upward while keeping control.
+Dumbbell Row,Back,Muscle Gain,Intermediate,Dumbbells,Pull,4,10,90,Pull the dumbbells toward your waist while keeping your back stable.
+Goblet Squat,Legs,Muscle Gain,Intermediate,Dumbbells,Legs,4,10,90,Hold the dumbbell near your chest and squat with control.
+Dumbbell Shoulder Press,Shoulders,Muscle Gain,Intermediate,Dumbbells,Push,4,10,90,Press the dumbbells overhead with control.
+Dumbbell Romanian Deadlift,Legs,Muscle Gain,Intermediate,Dumbbells,Legs,3,10,90,Keep your back neutral and lower the dumbbells along your legs.
+Dumbbell Reverse Fly,Back,Muscle Gain,Intermediate,Dumbbells,Pull,3,12,60,Lean forward and raise the dumbbells outward with control.
+Dumbbell Chest Fly,Chest,Muscle Gain,Intermediate,Dumbbells,Push,3,12,60,Lower the dumbbells slowly and bring them together with control.
+Dumbbell Step-up,Legs,Muscle Gain,Intermediate,Dumbbells,Legs,3,10,75,Step onto a stable platform while maintaining control.
+
+Bench Press,Chest,Strength,Beginner,Barbell,Push,3,8,120,Lower the bar under control and press upward.
+Deadlift,Back/Legs,Strength,Beginner,Barbell,Pull,3,6,120,Keep your back neutral and lift the bar from the floor.
+Dumbbell Row,Back,Strength,Beginner,Dumbbells,Pull,3,10,90,Pull the dumbbells toward your waist while keeping your back stable.
+Goblet Squat,Legs,Strength,Beginner,Dumbbells,Legs,3,10,90,Hold the dumbbell close to your chest and squat with control.
+Push-ups,Chest,Strength,Beginner,No Equipment,Push,3,12,60,Keep your body straight and lower yourself with control.
+Bodyweight Squat,Legs,Strength,Beginner,No Equipment,Legs,3,15,60,Keep your chest up and squat under control.
+Plank,Core,Strength,Beginner,No Equipment,Core,3,30 sec,45,Keep your body straight and brace your core.
+Reverse Lunges,Legs,Strength,Beginner,No Equipment,Legs,3,10,60,Step backward and lower your body under control.
+
+Bench Press,Chest,Strength,Intermediate,Barbell,Push,4,8,120,Lower the bar under control and press upward.
+Deadlift,Back/Legs,Strength,Intermediate,Barbell,Pull,4,6,150,Keep your back neutral and lift the bar from the floor.
+Dumbbell Deadlift,Legs,Strength,Intermediate,Dumbbells,Legs,4,8,120,Keep your back neutral and lift the dumbbells under control.
+Dumbbell Row,Back,Strength,Intermediate,Dumbbells,Pull,4,8,120,Pull the dumbbells toward your waist while keeping your back stable.
+Dumbbell Shoulder Press,Shoulders,Strength,Intermediate,Dumbbells,Push,4,8,120,Press the dumbbells overhead while maintaining control.
+Goblet Squat,Legs,Strength,Intermediate,Dumbbells,Legs,4,8,120,Hold the dumbbell close to your chest and squat with control.
+Push-ups,Chest,Strength,Intermediate,No Equipment,Push,4,15,60,Keep your body straight and lower yourself with control.
+Reverse Lunges,Legs,Strength,Intermediate,No Equipment,Legs,4,12,60,Step backward and lower your body with control.
+
+Walking Lunges,Legs,Weight Loss,Beginner,No Equipment,Cardio,3,12,60,Step forward and lower your body under control.
+Jumping Jacks,Full Body,Weight Loss,Beginner,No Equipment,Cardio,3,30,45,Jump while moving your arms and legs outward.
+Mountain Climbers,Full Body,Weight Loss,Beginner,No Equipment,Cardio,3,20,45,Alternate your knees toward your chest.
+High Knees,Full Body,Weight Loss,Beginner,No Equipment,Cardio,3,30 sec,45,Alternate lifting your knees while maintaining control.
+Butt Kicks,Full Body,Weight Loss,Beginner,No Equipment,Cardio,3,30 sec,45,Alternate bringing your heels toward your hips.
+Step Touch,Full Body,Weight Loss,Beginner,No Equipment,Cardio,3,45 sec,45,Step side to side at a steady pace.
+Skater Steps,Legs,Weight Loss,Beginner,No Equipment,Cardio,3,20,45,Step from side to side while maintaining balance.
+Marching in Place,Full Body,Weight Loss,Beginner,No Equipment,Cardio,3,60 sec,45,March steadily while maintaining an upright posture.
+
+Walking Lunges,Legs,Weight Loss,Intermediate,No Equipment,Cardio,4,15,60,Step forward and lower your body under control.
+Jumping Jacks,Full Body,Weight Loss,Intermediate,No Equipment,Cardio,4,40,45,Jump while moving your arms and legs outward.
+Mountain Climbers,Full Body,Weight Loss,Intermediate,No Equipment,Cardio,4,25,45,Alternate your knees toward your chest with control.
+High Knees,Full Body,Weight Loss,Intermediate,No Equipment,Cardio,4,40 sec,45,Alternate lifting your knees while maintaining control.
+Burpees,Full Body,Weight Loss,Intermediate,No Equipment,Cardio,3,12,60,Move through the exercise with controlled technique.
+Skater Steps,Legs,Weight Loss,Intermediate,No Equipment,Cardio,4,25,45,Move from side to side while maintaining balance.
+Bodyweight Squat,Legs,Weight Loss,Intermediate,No Equipment,Legs,4,20,60,Keep your chest up and squat under control.
+Reverse Lunges,Legs,Weight Loss,Intermediate,No Equipment,Legs,3,15,60,Step backward and lower your body with control.
